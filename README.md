@@ -9,7 +9,7 @@
 Fix Wireless Delivery Assignment materials
 
 ==============
-## Outcomes or Output Artefacts and prototypes are ketp under folder
+## Outcomes or Output Artefacts and prototypes are kept under folder
 
 Fix Wireless Delivery Artifacts and Prototype
 
